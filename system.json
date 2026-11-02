@@ -1,0 +1,31 @@
+{
+  "id": "sailor-moon-rpg",
+  "title": "Sailor Moon Role-Playing Game",
+  "description": "Unofficial fan-made Foundry VTT system implementing the supplied Sailor Moon RPG rules.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "petalSoft"
+    }
+  ],
+  "esmodules": [
+    "scripts/system.js"
+  ],
+  "styles": [
+    "styles/system.css"
+  ],
+  "documentTypes": {
+    "Actor": {
+      "agent": {}
+    },
+    "Item": {}
+  },
+  "manifest": "https://raw.githubusercontent.com/kurigohan-lab/MagicalGirlPlusUltra/main/system.json",
+  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/foundry_mod_v0.59.26_engaged_contrast_fix.zip",
+  "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra"
+}
