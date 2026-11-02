@@ -25,7 +25,7 @@
     },
     "Item": {}
   },
-  "manifest": "https://raw.githubusercontent.com/kurigohan-lab/MagicalGirlPlusUltra/main/system.json",
-  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/foundry_mod_v0.59.26_engaged_contrast_fix.zip",
-  "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra"
+  "manifest": "https://raw.githubusercontent.com/kurigohan-lab/SailorMoonTTRPG/main/system.json",
+  "download": "https://github.com/kurigohan-lab/SailorMoonTTRPG/releases/download/Release/sailor-moon-rpg-foundry-v14.zip",
+  "url": "https://github.com/kurigohan-lab/SailorMoonTTRPG"
 }
